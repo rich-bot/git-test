@@ -43,5 +43,6 @@ console.log("cc");
 console.log("cc");
 console.log("cc");
 console.log("cc");
-11
-22
+11;
+22;
+99;
