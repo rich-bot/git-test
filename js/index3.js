@@ -6,3 +6,4 @@ const d = 4;
 44;
 11;
 sdfasdf;
+const gg = 1;
